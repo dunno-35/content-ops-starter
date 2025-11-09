@@ -19,7 +19,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Conatct
+      - label: Contact
         altText: ''
         url: /
         showIcon: true
