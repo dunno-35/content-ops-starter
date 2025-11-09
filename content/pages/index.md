@@ -73,7 +73,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hygkdgbfvd (1).png
+      url: /images/hygkdgbfvd.png
       altText: Alex Mardle
       elementId: ''
       styles:
