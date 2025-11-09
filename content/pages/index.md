@@ -90,10 +90,7 @@ sections:
               borderRadius: x-large
       - title: Weddings​ & Private Parties
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Close-up magic that will\_make\_your special day unforgettable.\n\n"
         image:
           altText: Featured icon two
           elementId: ''
