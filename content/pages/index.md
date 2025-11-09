@@ -57,11 +57,7 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "I’m Alex, a 13-year-old magician from\_Cambridgeshire. I\_started learning magic\_in 2019 and quickly fell in love with the art of amazement.\n\nWith mentoring and hours of practice, I’ve built up a wide range of skills — from sleight-of-hand card tricks to full performance routines. My style is modern, funny, and designed to connect with all ages.\_\n\nI'm a member of the magic Circle youth initiative and I participate in big magic competitions when there.\_\n\nSo... What makes me different? I understand how to keep kids entertained while still performing clever magic that surprises adults too.\_\n\nWhether it’s a family party, wedding, or larger event, I make sure every performance feels unique, interactive, and unforgettable.\n\n\n\n\n"
     actions: []
     elementId: null
     colors: bg-light-fg-dark
