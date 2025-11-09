@@ -21,7 +21,7 @@
         },
         {
             "label": "What I Do",
-            "altText": "Blog",
+            "altText": "",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
