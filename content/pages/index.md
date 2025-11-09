@@ -74,7 +74,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/P9140233.JPG
-      altText: Image alt text placeholder
+      altText: Alex Mardle
       elementId: ''
       styles:
         self:
