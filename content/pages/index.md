@@ -7,7 +7,7 @@ sections:
       text: Alex Mardle
       color: text-dark
       type: TitleBlock
-    subtitle: Making Rabbits Scared Of Hats Since 2019
+    subtitle: Making Rabbits Nervous Since 2019
     text: ''
     actions:
       - label: About
