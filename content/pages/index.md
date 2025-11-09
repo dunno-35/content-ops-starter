@@ -73,7 +73,7 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/P9140233.JPG
       altText: Image alt text placeholder
       elementId: ''
       styles:
