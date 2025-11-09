@@ -20,7 +20,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "What I Do",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
