@@ -41,7 +41,7 @@
     "secondaryLinks": [
         {
             "label": "About",
-            "altText": "Sign up",
+            "altText": "About",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
