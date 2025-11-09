@@ -10,7 +10,7 @@ sections:
     subtitle: "Making\_ Rabbits Scared Of Hats Since 2019"
     text: ''
     actions:
-      - label: Get started
+      - label: About
         altText: ''
         url: /
         showIcon: false
