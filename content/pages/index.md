@@ -50,7 +50,7 @@ sections:
           - pr-16
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: About Me
       color: text-dark
       styles:
         self:
