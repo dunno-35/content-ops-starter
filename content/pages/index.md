@@ -184,7 +184,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: Contact Me
         altText: ''
         url: /
         showIcon: false
