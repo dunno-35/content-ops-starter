@@ -260,13 +260,6 @@ sections:
         tagline: ''
         subtitle: 'Jane Walters, Company'
         text: ''
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
