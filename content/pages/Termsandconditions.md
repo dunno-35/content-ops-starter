@@ -56,7 +56,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-slug: empty
+slug: Termsandconditions
 isDraft: false
 seo:
   type: Seo
