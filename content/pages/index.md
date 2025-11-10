@@ -252,7 +252,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What They Say
     items:
       - title: >-
           "Design can be art. Design can be aesthetics. Design is so simple,
