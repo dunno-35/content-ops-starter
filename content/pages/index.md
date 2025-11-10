@@ -307,7 +307,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: A 13 YEAR OLD MAGICIAN
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
