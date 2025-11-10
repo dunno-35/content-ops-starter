@@ -337,7 +337,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: ALEX MARDLE
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
   - title:
