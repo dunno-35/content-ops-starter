@@ -337,7 +337,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact ME
+      label: ALEX MARDLE
       color: text-primary
     colors: bg-light-fg-dark
   - title:
