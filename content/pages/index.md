@@ -287,7 +287,7 @@ sections:
       type: TitleBlock
       text: Contact Me
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Don’t let the age fool you - the tricks are real.
     text: >+
 
       Ready to add some magic to your next event? Get in touch and let’s make it
