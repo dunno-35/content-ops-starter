@@ -374,7 +374,7 @@ sections:
       color: text-primary
     colors: bg-light-fg-dark
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Alex Mardle - Young Magician
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
