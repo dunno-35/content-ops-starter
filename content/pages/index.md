@@ -289,7 +289,7 @@ sections:
     subtitle: ''
     text: ''
     actions:
-      - label: Get started
+      - label: Contact Me
         url: /
         icon: arrowRight
         iconPosition: right
