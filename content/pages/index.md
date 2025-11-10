@@ -305,7 +305,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/Screenshot 2025-09-03 125715.png
+      url: /images/asdfghjkasdfghjk.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
