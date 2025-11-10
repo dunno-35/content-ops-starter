@@ -376,7 +376,7 @@ sections:
 seo:
   metaTitle: Alex Mardle - Young Magician
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Adobe Express - file.png
   type: Seo
 type: PageLayout
 ---
