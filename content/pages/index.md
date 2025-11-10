@@ -283,7 +283,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Social Media Management
+      text: Bringing a young twist to classic magic.
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
