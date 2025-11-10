@@ -254,7 +254,9 @@ sections:
     title: null
     subtitle: What They Say
     items:
-      - title: ''
+      - title: >-
+          "Alex kept us entertained with a simple deck of playing cards creating
+          wonder and astonishment balanced with intriguing patter"
         tagline: ''
         subtitle: 'Jane Walters, Company'
         text: ''
