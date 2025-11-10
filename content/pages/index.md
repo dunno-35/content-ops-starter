@@ -375,7 +375,9 @@ sections:
     colors: bg-light-fg-dark
 seo:
   metaTitle: Alex Mardle - Young Magician
-  metaDescription: ''
+  metaDescription: >-
+    I'm Alex Mardle, a 13-year-old magician from Essex and Cambridgeshire. I
+    perform amazing close-up magic and stage shows that wow every audience!
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
