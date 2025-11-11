@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     text: "I’m Alex, a **13-year-old** magician from\_Cambridgeshire. I\_started learning magic\_in 2019 and quickly fell in love with it.\n\nWith mentoring and hours of practice, I’ve built up a wide range of skills, from sleight of hand card tricks to full performance routines. My style is **modern, funny, and designed to connect with all ages.**\_I'm a **member of the Magic Circle** youth initiative and **The Cambridge Pentacle Club.**\n\nSo... What makes me different? **I understand how to keep kids entertained** while still performing **clever magic that surprises adults too**.\_Whether it’s a family party, wedding, or larger event, I make sure every performance feels **unique, interactive, and unforgettable.**\n"
     actions: []
-    elementId: null
+    elementId: about_me
     colors: bg-light-fg-dark
     styles:
       self:
