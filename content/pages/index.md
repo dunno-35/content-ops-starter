@@ -274,7 +274,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-    elementId: null
+    elementId: testemonials
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
