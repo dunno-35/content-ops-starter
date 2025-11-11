@@ -373,6 +373,7 @@ sections:
       label: ''
       color: text-primary
     colors: bg-light-fg-dark
+    elementId: contact
 seo:
   metaTitle: Alex Mardle - Young Magician
   metaDescription: ''
