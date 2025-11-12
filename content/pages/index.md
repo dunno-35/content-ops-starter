@@ -12,7 +12,7 @@ sections:
     actions:
       - label: About
         altText: ''
-        url: /
+        url: /about_me
         showIcon: false
         icon: arrowRight
         iconPosition: right
