@@ -21,7 +21,7 @@ sections:
         type: Button
       - label: Contact
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: true
         icon: arrowRight
         iconPosition: right
