@@ -42,7 +42,7 @@
         {
             "label": "About",
             "altText": "About",
-            "url": "https://app.netlify.com/signup",
+            "url": "#about_me",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
