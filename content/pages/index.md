@@ -213,7 +213,7 @@ sections:
     actions:
       - label: Contact Me
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: false
         icon: arrowRight
         iconPosition: right
