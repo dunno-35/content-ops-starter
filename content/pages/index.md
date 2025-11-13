@@ -296,7 +296,7 @@ sections:
         style: secondary
         type: Button
       - label: What I Do
-        url: /
+        url: '#what_i_do'
         showIcon: true
         icon: arrowRight
         iconPosition: right
