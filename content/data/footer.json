@@ -16,7 +16,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/privacypolicy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
