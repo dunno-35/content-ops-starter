@@ -22,7 +22,7 @@
         {
             "label": "What I Do",
             "altText": "",
-            "url": "/blog",
+            "url": "#what_i_do",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
