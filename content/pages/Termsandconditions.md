@@ -11,13 +11,12 @@ sections:
         self:
           textAlign: left
     subtitle: 'Last updated: November 2025'
-    text: >+
+    text: >
       Welcome to my website! I’m Alex Mardle, a 13-year-old magician performing
       across the UK.
 
 
-      By using this website or contacting me, you agree to the following simple
-      terms:
+      By using this website or contacting me, you agree to the following terms:
 
 
       1.  **Bookings** — All shows and events are arranged directly through me.
@@ -43,11 +42,8 @@ sections:
 
 
       If you have any questions, feel free to get in touch with
-      contact\@alexmardle.com or through the contact form — I’ll be happy to
+      <contact@alexmardle.com> or through the contact form — I’ll be happy to
       help.
-
-
-
     actions: []
     colors: bg-light-fg-dark
     styles:
