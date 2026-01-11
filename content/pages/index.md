@@ -323,51 +323,13 @@ sections:
     subtitle: Don’t let the age fool you - the tricks are real.
     text: >+
 
-      Ready to add some magic to your next event? Get in touch and let’s make it
+      Ready to add some magic to your next event? Get in touch and let's make it
       unforgettable.
 
+
+      Email me at [alexmardlebookings@gmail.com](mailto:alexmardlebookings@gmail.com)
+
     actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
     badge:
       type: Badge
       label: ''
