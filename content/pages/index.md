@@ -321,11 +321,9 @@ sections:
       text: Contact Me
       color: text-dark
     subtitle: Don’t let the age fool you - the tricks are real.
-    text: >+
-
-      Ready to add some magic to your next event? Get in touch and let’s make it
-      unforgettable.
-
+    text: >
+      Ready to add some magic to your next event? Get in touch by emailing me at
+      [alexmardlebookings@gmail.com](alexmardlebookings@gmail.com)
     actions: []
     badge:
       type: Badge
