@@ -323,7 +323,7 @@ sections:
     subtitle: Don’t let the age fool you - the tricks are real.
     text: >
       Ready to add some magic to your next event? Get in touch by emailing me at
-      [alexmardlebookings@gmail.com](alexmardlebookings@gmail.com)
+      <contact@alexmardle.com>
     actions: []
     badge:
       type: Badge
